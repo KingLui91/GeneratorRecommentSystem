@@ -32,3 +32,5 @@ def alg(product_list, price):
     return liste
     
 print(alg(product_list,50))
+print()
+
